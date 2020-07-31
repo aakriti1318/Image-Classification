@@ -11,4 +11,4 @@ Scikit Learn uses One vs One technique for multiclass classification using SVM
 
 Accuracy
 Implementing One vs One technique on a SVM Classifier 'poly' model with the penalty = 1.0
-Accuracy - 64.108%
+##### Accuracy - 64.108%
